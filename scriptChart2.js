@@ -113,7 +113,7 @@ var chart = AmCharts.makeChart( "chartdivTwo", {
 
   "panels": [ {
     "showCategoryAxis": false,
-    "title": "Value",
+    "title": "($)Value",
     "percentHeight": 100,
 
     "stockGraphs": [ {
